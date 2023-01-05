@@ -1,0 +1,3 @@
+(library
+ (name scad_ml)
+ (public_name scad_ml))
